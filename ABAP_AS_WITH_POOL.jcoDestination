@@ -1,5 +1,5 @@
 #Destination - ABAP_AS_WITH_POOL
-#Sun May 05 16:30:37 CST 2019
+#Thu May 09 13:56:43 CST 2019
 jco.destination.pool_capacity=25
 jco.client.lang=ZH
 jco.client.ashost=hcmtest.sunac.com.cn
@@ -8,6 +8,6 @@ jco.client.sysnr=00
 jco.destination.peak_limit=100
 jco.destination.expiration_time=1000
 jco.destination.expiration_check_period=500
-jco.client.passwd=tOdA;c!8nw4FMyKgBTfd~N!olOKAsghP@uL}DpCoM4p6j{3P
+jco.client.passwd=t0KQm!eU!0H2)wK*Ef7m-v|0ImQw}|YwgT28@73V8h{g4RHb
 jco.destination.max_get_client_time=30000
 jco.client.client=200
