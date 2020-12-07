@@ -40,7 +40,7 @@ public class demoController {
   private static final String APPKEY = "de8240ae9a";
   private static final Integer EXPIRE = 1;
 
-  @RequestMapping
+  @RequestMapping("abc")
   public String test() throws NoSuchAlgorithmException {
     long time = System.currentTimeMillis();
     String str = String.format("%s%s%d", APPID, APPKEY, time);

@@ -81,64 +81,8 @@
         </dependency>
 
         <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>cesession</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>cecore</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>celib</artifactId>
-            <version>0.0.2</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>logging</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>ceaspect</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>TraceLog</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>corbaidl</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-
-        <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>ebus405</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>bcm</artifactId>
-            <version>0.0.1</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/bcm.jar</systemPath>
         </dependency>
 
         <dependency>
@@ -149,29 +93,6 @@
             <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/open-sdk-java-1.0.2-jar-with-dependencies.jar</systemPath>
         </dependency>
 
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>cryptojFIPS</artifactId>
-            <version>0.0.1</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/cryptojFIPS.jar</systemPath>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>cryptojFIPS</artifactId>
-            <version>0.0.1</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/external/cryptojFIPS.jar</systemPath>
-        </dependency>
-
-        <dependency>
-            <groupId>com.businessobjects</groupId>
-            <artifactId>cryptojFIPS</artifactId>
-            <version>0.0.1</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/secSAPR3.jar</systemPath>
-        </dependency>
     </dependencies>
 
     <build>
